@@ -2,6 +2,8 @@ Introduction
 
 This is a new paragraph in the introduction
 
+another paragraph
+
 Now lets change a lot more
 
 and write and write
