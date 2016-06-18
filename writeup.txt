@@ -11,7 +11,11 @@ Now lets change a lot moreand write and writeand write and writeNow lets change 
 
 Methods
 
+added some methods text
+
 Results
+
+I’m working in the results here
 
 Discussion
 
